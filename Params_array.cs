@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TE_CSharp
 {
+    //params array
     internal class Params_array
     {
         public static void Main()
