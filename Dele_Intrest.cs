@@ -23,6 +23,12 @@ namespace TE_CSharp
             t = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("---------------------------------------------------");
         }
+        /// <summary>
+        /// To calculate the simple intrest formula is 
+        /// simple intrest=(intrest rate*principal amount* time*365)/100
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="i"></param>
         public void GetSbi(string name, float i)
         { 
             float simple_int = (i* p * t*365) / 100;
