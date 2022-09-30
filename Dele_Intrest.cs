@@ -24,7 +24,7 @@ namespace TE_CSharp
             Console.WriteLine("---------------------------------------------------");
         }
         /// <summary>
-        /// To calculate the simple intrest formula is 
+        /// To calculate the simple intrest formula is  
         /// simple intrest=(intrest rate*principal amount* time*365)/100
         /// </summary>
         /// <param name="name"></param>
