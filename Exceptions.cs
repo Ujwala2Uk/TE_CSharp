@@ -61,8 +61,6 @@ namespace TE_CSharp
                 Console.WriteLine("-----------------------------------------------------------");
                 Console.WriteLine(e.Data);
                 Console.WriteLine("-----------------------------------------------------------");
-                Console.WriteLine(e.HelpLink);
-                Console.WriteLine("-----------------------------------------------------------");
                 Console.WriteLine(e.TargetSite);
                 Console.WriteLine("-----------------------------------------------------------");
             }
